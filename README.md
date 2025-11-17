@@ -4,14 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-v1.30-orange) ![License](https://img.shields.io/badge/License-MIT-green) ![GitHub issues](https://img.shields.io/github/issues/UsamaMunawarr/mobile-price-predictor) ![GitHub stars](https://img.shields.io/github/stars/UsamaMunawarr/mobile-price-predictor)
 
-## 🎥 Demo
-
-Here’s a quick look at the system in action 👇
-
-![Demo](mobiles.gif)
-*A preview of the Mobile Price Predictor app.*
-
----
 
 ## Overview
 
@@ -148,10 +140,6 @@ streamlit run app.py
 
 ---
 
-## 🌐 Connect with Me
-
-[![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/UsamaMunawarr)[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/abu--usama)[![YouTube](https://img.icons8.com/?size=50\&id=19318\&format=png)](https://www.youtube.com/@CodeBaseStats)[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/Usama__Munawar?t=Wk-zJ88ybkEhYJpWMbMheg&s=09)[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://www.facebook.com/profile.php?id=100005320726463&mibextid=9R9pXO)
-
----
+-
 
 
