@@ -103,10 +103,6 @@ mobile-price-predictor/
 ![Model Evaluation](images/c2.PNG)
 ![Model Evaluation](images/c3.PNG)
 
-> 4.  ### About Page
-![About Page](images/d2.PNG)
-
----
 
 ## 🔧 Run Locally
 
