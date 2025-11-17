@@ -47,12 +47,7 @@ This project demonstrates a full **data science workflow**: **web scraping → p
 * Automatic **best model detection**.
 * View **detailed ranking table** for all models.
 
-### 👨‍💻 About
 
-* Developer: **Usama Munawar** – Data Scientist | MPhil Scholar | ML Enthusiast
-* Connect via GitHub, LinkedIn, YouTube, Twitter, and Facebook.
-
----
 
 ## 🛠️ Technologies & Libraries
 
@@ -140,6 +135,6 @@ streamlit run app.py
 
 ---
 
--
+
 
 
